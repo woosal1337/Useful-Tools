@@ -1,2 +1,2 @@
-<b> READNE Editor </b> <br>
+<b> README Editor </b> <br>
 https://dillinger.io/ <br>
