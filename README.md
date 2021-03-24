@@ -1,1 +1,4 @@
-<b> Check the folders above for some useful tools! </b>
+# App Links:
+
+### NN from Scratch Design
+- https://snapcraft.io/netron
